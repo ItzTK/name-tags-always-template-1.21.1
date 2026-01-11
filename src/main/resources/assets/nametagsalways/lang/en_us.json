@@ -1,0 +1,10 @@
+{
+  "text.autoconfig.nametagalways.title": "Name Tag Always Options",
+  "text.autoconfig.nametagalways.option.displayNamesEnabled": "Display Names Enabled",
+  "text.autoconfig.nametagalways.option.displayNamesEnabled.@Tooltip": "Always display names of name tagged entities. Can be freely toggled via keybind",
+  "text.autoconfig.nametagalways.option.sendToggleNotifications": "Send Toggle Notifications",
+  "text.autoconfig.nametagalways.option.sendToggleNotifications.@Tooltip": "Send notification message when toggle keybind pressed",
+
+  "key.categories.nametagsalways": "Name Tag Always",
+  "key.nametagsalways.toggle_names": "Toggle Display Names"
+}
