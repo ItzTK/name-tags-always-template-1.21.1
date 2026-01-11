@@ -23,7 +23,7 @@
 		]
 	},
 	"mixins": [
-		"name-tags-always.mixins.json"
+		"nametagsalways.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.17.3",
