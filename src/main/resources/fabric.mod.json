@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "nametagsalways",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"name": "Name Tags Always",
 	"description": "Always show the names of named entities",
 	"authors": [
